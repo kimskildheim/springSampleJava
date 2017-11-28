@@ -1,4 +1,4 @@
-package service;
+package no.skildheim.service;
 
 import no.skildheim.model.Customer;
 

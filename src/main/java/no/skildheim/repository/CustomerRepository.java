@@ -1,4 +1,4 @@
-package repository;
+package no.skildheim.repository;
 
 import no.skildheim.model.Customer;
 
